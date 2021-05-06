@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paralelogramo", "Pararalelogramo\Paralelogramo.csproj", "{42305693-B515-4EC1-99AC-711BCF05A17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{18B5A4A8-3E6F-4FF4-8143-CEAC55053BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42305693-B515-4EC1-99AC-711BCF05A17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42305693-B515-4EC1-99AC-711BCF05A17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42305693-B515-4EC1-99AC-711BCF05A17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42305693-B515-4EC1-99AC-711BCF05A17E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B5A4A8-3E6F-4FF4-8143-CEAC55053BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B5A4A8-3E6F-4FF4-8143-CEAC55053BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B5A4A8-3E6F-4FF4-8143-CEAC55053BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B5A4A8-3E6F-4FF4-8143-CEAC55053BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AD8D43-E64E-4BFE-A1D1-04616ABA8A2C}
+	EndGlobalSection
+EndGlobal
